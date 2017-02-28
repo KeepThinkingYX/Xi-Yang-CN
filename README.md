@@ -4,7 +4,7 @@
 
 <big>博士生在读</big>
 
-[今野研究室](http://gmhost.lk.cis.iwate-u.ac.jp/)  
+[今野研究室](http://gmhost.lk.cis.iwate-u.ac.jp/)  
 日本岩手大学  
 
 电子邮箱: yangxi(AT)lk.cis.iwate-u.ac.jp  
