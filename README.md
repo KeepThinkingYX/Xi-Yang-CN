@@ -54,4 +54,4 @@
 - 豊嶋宏太，森本由宇，佐々木尭，*楊渓*：“Digital Planisphere”，艺术和技术东北2014，审查员特别奖，6月28日，2014.
 - FREESPACE team: “ActivityAnalyse”，一等奖，西北农林科技大学第六届软件设计大赛，2011.
 
-![image](https://github.com/KeepThinkingYX/Xi-Yang/raw/master/1487158882.png)
+![image](https://github.com/KeepThinkingYX/Xi-Yang-CN/raw/master/cn.png)
