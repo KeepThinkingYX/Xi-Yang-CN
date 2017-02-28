@@ -1,6 +1,3 @@
-<font face="微软雅黑">我是微软雅黑</font>
-<font color=#0099ff size=7 face="黑体">color=#0099ff size=72 face="黑体"</font>
-
 # 杨 溪
 
 ![image](https://github.com/KeepThinkingYX/Xi-Yang/raw/master/XiYang.JPG)  
